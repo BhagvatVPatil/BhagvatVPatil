@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BhagvatVPatil
 - 👀 I’m currently looking for Frontend developer position.
-- 💞️ I’m looking for Job better opportunity. 
-- 📫 How to reach me bhagvatpatil1995@gmail.com
+- 📫 How to reach me bhagvatvpatil9@gmail.com
 
 
 <!---
